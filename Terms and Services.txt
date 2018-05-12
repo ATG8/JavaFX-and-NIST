@@ -1,0 +1,4 @@
+1. Users are accessing a U.S. Government information system; 
+2. Information system usage may be monitored, recorded, and subject to audit; 
+3. Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and 
+4. Use of the information system indicates consent to monitoring and recording; 
